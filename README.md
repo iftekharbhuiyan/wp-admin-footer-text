@@ -1,2 +1,2 @@
-# Custom Footer Message
+# Custom Footer Text
 Display Custom Footer Message

@@ -1,2 +1,2 @@
-# wp-footer-message
+# Custom Footer Message
 Display Custom Footer Message
